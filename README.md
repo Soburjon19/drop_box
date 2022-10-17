@@ -1,6 +1,6 @@
 # Welcome Dropbox
 
-<h3>Welcome to my project <a href="https://my-dropbox-clone.netlify.app/login">Dropbox</a></h3>
+<h3>Welcome to my project <a href="https://my-dropbox-clone.netlify.app/">Dropbox</a></h3>
 
 # Abilities 
 <ul>
