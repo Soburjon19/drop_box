@@ -7,7 +7,7 @@
 
 - [@Soburjon19](https://www.github.com/Soburjon19)
 - [@Akbarjon03](https://www.github.com/Akbarjon03)
-- [@Ravshan](https://www.github.com/Ravshan)
+- [@KhRavshanDev](https://www.github.com/KhRavshanDev)
 
 
 ## Demo
